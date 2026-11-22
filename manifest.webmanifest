@@ -1,0 +1,25 @@
+{
+  "name": "KEITAまなびクエスト",
+  "short_name": "KEITAまなび",
+  "description": "中学受験の社会を家族で学習。江戸時代300問、復習と進級再テスト。",
+  "lang": "ja",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#090909",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
