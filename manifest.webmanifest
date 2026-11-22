@@ -1,7 +1,7 @@
 {
   "name": "KEITAまなびクエスト",
   "short_name": "KEITAまなび",
-  "description": "中学受験・江戸時代（2）〜（4）の計900問。家族別学習、復習、進級再テスト。",
+  "description": "中学受験・江戸時代（2）〜（4）と明治時代（1）の計1200問。家族別学習、復習、進級再テスト。",
   "lang": "ja",
   "start_url": "./index.html",
   "scope": "./",
